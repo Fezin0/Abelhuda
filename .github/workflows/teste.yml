@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Abelhuda Doces Caseiros</title>
+    <link rel="icon" href="Logo 1.jpg">
+    <meta 00000 charset="utf-8">
+    <meta name="description" content="Site da Abelhuda Doces Caseiros">
+    <meta name="author" content="Felipe Costa Reis">
+    <meta name="keywords" content="Doces, Doces Caseiros, Caucaia, Cotia">
+    <!--meta http-equiv="refresh" content="8;url=https://facebook.com/docescaseirosabelhuda" rel="noopen noreferrer"-->
+
+    <div class="a">
+      <link rel="stylesheet" href="sheet.css">
+    </div>
+
+  </head>
+
+  <body>
+
+    <div class="b">
+      <h1>Abelhuda Doces Caseiros</h1>
+      <p>Caucaia está mais doce! Os melhores doces caseiros da região!!!</p><br>
+      <br>
+    </div>
+
+    <div class="c">
+      <hr>
+      <i><u><h3>Página em construção, você será redirecionado(a) a nossa página no facebook ou<h3> <br>
+        <a href="https://facebook.com/docescaseirosabelhuda"  rel="noopen noreferrer" style="color:blue;"> clique aqui</a></i></u>
+      <hr>
+    </div>
+
+    <div>
+      <p><a href="mailto:abelhudabeez@gmail.com?subject=Assunto" >Clique aqui</a> para nos enviar um e-mail</p>
+
+  </body>
+</html>
